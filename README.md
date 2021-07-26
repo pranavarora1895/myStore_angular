@@ -22,3 +22,10 @@ Angular is used to create single-page web applications. It consists of:-
 * Directives change the component templates depending on the logic and data. There are two types of directives:- Structural Directives (*ngfor and *ngIf) and Attribute Directives. 
 
 ![angular_concepts](https://user-images.githubusercontent.com/48170643/126941183-e30223c1-b3b9-4aed-8f7b-0cf0074cd03e.png)
+
+
+* Follow Me On Instagram at [Pranav Arora](https://www.instagram.com/arorapranav187)
+* Lets Get Connected on Linkedin at [Pranav Arora](https://www.linkedin.com/in/pranav-arora-354b71bb/)
+
+
+### ThankYou!
