@@ -2,7 +2,7 @@
 
 > ### View the Project here
 
-**[MyStore](https://angular-m7v9ag.stackblitz.io)**
+**[MyStore](https://angular-m7v9ag-3fk5xe.stackblitz.io/)**
 
 Angular is used to create single-page web applications. It consists of:-
 * Modules
